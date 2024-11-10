@@ -9,7 +9,7 @@ Two datasets were used:
 
 * ImageNet-100: A subset of the large ImageNet dataset, consisting of 100 classes. This dataset allows for the evaluation of the generalization ability of models on a more diverse set of classes.
 
-The results are diesplayed below respectively for each dataset:  
+The results are displayed below respectively for each dataset:  
 
 ![Example Image](CIFAR-10.png)    ![Example Image](ImageNet100.png)
                                   
