@@ -2,7 +2,7 @@ This notebook focuses on the use of self-supervised techniques to learn high-per
 The pretext tasks were used to train the three models:
 * Context Encoder
 * Rotation
-* SimCLR).
+* SimCLR.
   
 Two datasets were used:
 *	CIFAR-10: A dataset consisting of 60,000 color images of 32x32 pixels divided into 10 different classes. Each set has been preprocessed through normalization, resizing, and splitting into training and validation sets.
