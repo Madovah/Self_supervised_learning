@@ -1,5 +1,5 @@
 This notebook focuses on the use of self-supervised techniques to learn high-performing image representations. By leveraging pretext tasks that take advantage of the structure of image data.
-The following pretext tasks were used to train the three models:
+The pretext tasks were used to train the three models:
 * Context Encoder
 * Rotation
 * SimCLR).
